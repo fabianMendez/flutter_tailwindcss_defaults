@@ -1,11 +1,11 @@
 name: flutter_tailwindcss_defaults
-description: Tailwindcss Defaults for Flutter
-version: 0.1.0
+description: This library provides Tailwind CSS default colors and theme for Flutter
+version: 0.1.1
 repository: https://github.com/fabianMendez/flutter_tailwindcss_defaults
 
 environment:
   sdk: ">=2.11.0 <3.0.0"
-  flutter: ">=2.0.4"
+  flutter: ">=2.0.3"
 
 dependencies:
   flutter:
